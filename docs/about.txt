@@ -1,2 +1,1 @@
 This is a practice of the essential Git commands.
-This just testing git checkout.
