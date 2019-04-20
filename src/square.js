@@ -1,7 +1,7 @@
+//This function finds the square of a number
 function square(x){
     return x*x;
 }
-// I just added a line to print the result
 console.log(square(4));
 
 //Lets find the cube
