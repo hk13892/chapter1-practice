@@ -9,3 +9,14 @@ function cube(a){
     return a*a*a;
 }
 console.log(cube(5));
+
+//factorial
+function factorial(a){
+    let i = 1;
+    while (a>1) {
+        i = i*a;
+        a--;
+    }
+    return i;
+}
+console.log(factorial(5));
